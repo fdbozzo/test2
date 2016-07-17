@@ -1,7 +1,7 @@
 # FoxBin2Prg v1.19 - Binary/Text Conversor for Microsoft Visual FoxPro 9
 ### Fernando D. Bozzo
-Blog: http://fdbozzo.blogspot.com.es/
-Project info: https://vfpx.codeplex.com/wikipage?title=FoxBin2Prg
+Blog: (http://fdbozzo.blogspot.com.es/)
+Project info: (https://vfpx.codeplex.com/wikipage?title=FoxBin2Prg)
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=fdbozzo%40gmail%2ecom&amp;lc=ES&amp;item_name=FoxBin2Prg&amp;item_number=FoxBin2Prg&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"> <img src="http://download-codeplex.sec.s-msft.com/Download?ProjectName=vfpx&amp;DownloadId=1591726" alt="Donate!" /> </a>
 
@@ -83,6 +83,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 
 ### ESPAÑOL --------------------------------------------------------------------------------------------
+<hr/>
 
 ### ¿Que es FOXBIN2PRG?
 Es un programa pensado para ser utilizado con herramientas SCM (Administradores de Control de Código Fuente, como VSS, CVS, SVN) y herramientas DVCS (como Git, Mercurial, Plastic, and others), o como programa independiente, para hacer operaciones de Diff (ver diferencias) y Merge (mezclar cambios), que pretende sustituir a SccText/X y TwoFox y mejorar sus funcionalidades, generando versiones de texto estilo-PRG que permiten recrear el binario original.
