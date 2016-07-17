@@ -10,6 +10,7 @@ Thank you for your support!
 
 ### ENGLISH/ESPAÑOL
 
+
 ### ENGLISH
 <hr/>
 
@@ -83,7 +84,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 
 
-### ESPAÑOL --------------------------------------------------------------------------------------------
+### ESPAÑOL
 <hr/>
 
 ### ¿Que es FOXBIN2PRG?
